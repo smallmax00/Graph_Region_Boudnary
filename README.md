@@ -3,6 +3,8 @@
 -------ODOC Segmentation--------
 ----------------------------------  
 
+-- Prepare your data  
+
 --Download [best_model.pth](https://drive.google.com/file/d/1S7s4jq8emUQbDHoG7_VUMcBWpsdV7gaR/view?usp=sharing) and put it into ./model/  
 
 
