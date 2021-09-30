@@ -12,6 +12,6 @@
 -- Run test.py  
 
 ------------------------------------
- Part of our code is built based on [PraNet](https://github.com/DengPingFan/PraNet), thanks Dr.Dengping for such a good project.
+ Part of our code is built based on [PraNet](https://github.com/DengPingFan/PraNet), thanks Dr.Fan Dengping for such a good project.
 
 
