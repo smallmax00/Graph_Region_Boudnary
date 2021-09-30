@@ -2,7 +2,15 @@
 
 -------ODOC Segmentation--------
 ----------------------------------  
---Download the pre-trained model and put it into ./model/  
---Download the backbone weight and put it into ./res_weight/
 
-****
+--Download best_model.pth and put it into ./model/  
+
+
+--Download res2net50_v1b_26w_4s-3cf99910.pth and put it into ./res_weight/  
+
+
+-- Run test.py
+
+
+
+
