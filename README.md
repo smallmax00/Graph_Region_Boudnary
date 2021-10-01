@@ -1,7 +1,7 @@
 # Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation
 
--------ODOC Segmentation--------
-----------------------------------  
+# ODOC Segmentation
+
 
 # Data Preparation  
 ```
@@ -21,10 +21,11 @@ Prepare your data, the index of the test data is in test.list
 ```
  -- Run test.py  
  ```  
- # Acknowledgement
- ```
-  Part of our code is built based on [PraNet](https://github.com/DengPingFan/PraNet), thanks Dr.Fan Dengping for such a good project.
-  ```
+# Acknowledgement
+ Part of our code is built based on [PraNet](https://github.com/DengPingFan/PraNet), thanks Dr.Fan Dengping for such a good project.
+
+ 
+
 
 
 
