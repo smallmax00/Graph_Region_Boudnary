@@ -1,4 +1,4 @@
-# Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation
+# IEEE-TMI: Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation
 
 # ODOC Segmentation
 
