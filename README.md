@@ -20,6 +20,19 @@ Prepare your data, the index of the test data is in test.list
 ```
  -- Run test.py  
  ```  
+
+# Citation
+If you find our work useful or our work gives you any insights, please cite:
+```
+@InProceedings{Meng_2021_TMI,
+    author    = {Meng, Yanda and Zhang, Hongrun and Zhao, Yitian and Yang, Xiaoyun and Qiao, Yihong, Ian J. C. MacCormick, Huang, Xiaowei and Zheng, Yalin},
+    title     = {Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation},
+    booktitle = {IEEE transactions on medical imaging},
+    year      = {2021},
+}
+
+```
+
 # Acknowledgement
  Part of our code is built based on [PraNet](https://github.com/DengPingFan/PraNet), thanks Dr.Fan Dengping for such a good project.
 
