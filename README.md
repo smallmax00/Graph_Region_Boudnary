@@ -25,7 +25,7 @@ Prepare your data, the index of the test data is in test.list
 If you find our work useful or our work gives you any insights, please cite:
 ```
 @InProceedings{Meng_2021_TMI,
-    author    = {Meng, Yanda and Zhang, Hongrun and Zhao, Yitian and Yang, Xiaoyun and Qiao, Yihong, Ian J. C. MacCormick, Huang, Xiaowei and Zheng, Yalin},
+    author    = {Meng, Yanda and Zhang, Hongrun and Zhao, Yitian and Yang, Xiaoyun and Qiao, Yihong and Ian, J. C. MacCormick and Huang, Xiaowei and Zheng, Yalin},
     title     = {Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation},
     booktitle = {IEEE transactions on medical imaging},
     year      = {2021},
