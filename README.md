@@ -24,11 +24,15 @@ Prepare your data, the index of the test data is in test.list
 # Citation
 If you find our work useful or our work gives you any insights, please cite:
 ```
-@InProceedings{Meng_2021_TMI,
-    author    = {Meng, Yanda and Zhang, Hongrun and Zhao, Yitian and Yang, Xiaoyun and Qiao, Yihong and Ian, J. C. MacCormick and Huang, Xiaowei and Zheng, Yalin},
-    title     = {Graph-based Region and Boundary Aggregation for Biomedical Image Segmentation},
-    booktitle = {IEEE transactions on medical imaging},
-    year      = {2021},
+@article{meng2021graph,
+  title={Graph-based region and boundary aggregation for biomedical image segmentation},
+  author={Meng, Yanda and Zhang, Hongrun and Zhao, Yitian and Yang, Xiaoyun and Qiao, Yihong and MacCormick, Ian JC and Huang, Xiaowei and Zheng, Yalin},
+  journal={IEEE transactions on medical imaging},
+  volume={41},
+  number={3},
+  pages={690--701},
+  year={2021},
+  publisher={IEEE}
 }
 
 ```
